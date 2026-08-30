@@ -30,7 +30,7 @@
 
 ### 📌 Featured Project
 
-**[TRACKit](https://github.com/Jayavishal9894/task-delivery-dash.git)** — A task delivery project built to streamline tracking and delivery workflows.
+**[TRACKit](https://task-delivery-dash.vercel.app/login)** — A task delivery project built to streamline tracking and delivery workflows.
 
 <!-- Replace the link above with your actual repo URL once pinned -->
 
