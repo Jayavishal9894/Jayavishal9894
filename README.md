@@ -24,6 +24,7 @@
 ![C](https://skillicons.dev/icons?i=c)
 ![Python](https://skillicons.dev/icons?i=py)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![AWS](https://skillicons.dev/icons?i=aws)
 
 ---
 
