@@ -6,7 +6,6 @@
 - 🤖 Deeply into **AI tools** — exploring how they can be used to build practical, real-world products
 - 🚀 Building **TRACKit**, a task delivery project
 - 🧩 Interested in building **MicroSaaS** products — small, focused tools that solve real problems
-- 🌱 Always learning and shipping new things
 
 <br>
 
@@ -30,7 +29,7 @@
 
 ### 📌 Featured Project
 
-**[TRACKit](https://github.com/Jayavishal9894/TRACKit)** — A task delivery project built to streamline tracking and delivery workflows.
+**[TRACKit](https://github.com/Jayavishal9894/task-delivery-dash.git)** — A task delivery project built to streamline tracking and delivery workflows.
 
 <!-- Replace the link above with your actual repo URL once pinned -->
 
